@@ -36,7 +36,7 @@ This is a solution to the [Google clone with ReactJs Library by Team Medics](htt
 
 ### Video
 
-![Video](https://res.cloudinary.com/mirakle/video/upload/v1636238558/Untitled__Nov_6_2021_10_04_PM_zmmxwo.mp4)
+[Link to Video](https://res.cloudinary.com/mirakle/video/upload/v1636238558/Untitled__Nov_6_2021_10_04_PM_zmmxwo.mp4)
 
 ### Links
 
